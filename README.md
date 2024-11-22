@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on AppifyLab, Sylhet, Banglash.
+I'm currently working on AppifyLab, Sylhet, Bangladesh.
 
 
 ## 🌐 Socials:
