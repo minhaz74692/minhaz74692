@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on AppifyLab, Sylhet, Bangladesh.
+I'm currently working on QuantiaLab(Part-time, remote), Mexico.
 
 
 ## 🌐 Socials:
