@@ -18,7 +18,7 @@ const minhaz = {
     currentRole: "Backend Developer @ QuantiaLab (Remote)",
     workLocation: "Guadalajara, Jalisco, Mexico",
     focusAreas: ["Backend Development", "Mobile Apps", "AI Integration"],
-    currentlyLearning: ["Microservices", "Cloud Architecture", "AI/ML"],
+    currentlyLearning: ["Machine Learning", "Microservices", "Cloud Architecture", "AI/ML"],
     askMeAbout: ["Java", "Spring Boot", "Flutter", "PostgreSQL", "System Design"],
     funFact: "I turn coffee into code ☕️"
 };
@@ -211,6 +211,8 @@ gantt
     section Backend
     Java & Spring Boot    :2024-10, 2026-02
     section Mobile
+    Flutter Development   :2023-03, 2026-02
+    section Web
     Flutter Development   :2022-03, 2026-02
     section Cloud
     AWS & DevOps          :2025-01, 2026-02
