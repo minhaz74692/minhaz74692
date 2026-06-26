@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Minhazul Islam
 
-### Full Stack Developer | Backend Specialist | Mobile App Developer | Data Science Enthusiast
+### Software Developer | Backend Specialist | Mobile App Developer | Aspiring Data Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Creating+Beautiful+Mobile+Experiences;Passionate+About+Clean+Code;Always+Learning+New+Technologies" alt="Typing SVG" />
 
