@@ -18,9 +18,9 @@ Software engineer with 3 years of experience building production backend systems
 
 ### 🛠️ Tech
 
-**Data Engineering:** Python · SQL · PySpark · Airflow · dbt · Databricks · Delta Lake · ETL/ELT
-**Backend:** Java · Spring Boot · REST APIs · PostgreSQL · AWS
-**Also:** Flutter · Dart · React · Docker · Git
+#### **Data Engineering:** Python · SQL · PySpark · Airflow · dbt · Databricks · Delta Lake · ETL/ELT
+#### **Backend:** Java · Spring Boot · REST APIs · PostgreSQL · AWS
+#### **Also:** Flutter · Dart · React · Docker · Git
 
 ---
 
