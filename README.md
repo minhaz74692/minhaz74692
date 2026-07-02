@@ -12,7 +12,7 @@ Software engineer with 3 years of experience building production backend systems
 
 🔭 **Currently building:** an end-to-end ELT pipeline (Databricks · PySpark · Delta Lake · Airflow) on the medallion architecture.
 
-📫 **Reach me:** [LinkedIn](http://www.linkedin.com/in/minhaz74692) · [Portfolio](https://minhazul-islam-bd.netlify.app/) · YOUR_EMAIL_HERE
+📫 **Reach me:** [LinkedIn](http://www.linkedin.com/in/minhaz74692) · [Portfolio](https://minhazul-islam-bd.netlify.app/) · minhazul.islam.contact@gmail.com
 
 ---
 
