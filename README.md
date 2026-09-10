@@ -25,8 +25,7 @@ I'm interested in roles where backend rigor meets pipeline design.
 </td>
 <td width="38%" align="center" valign="middle">
 
-<!-- Replace with your own animated SVG/GIF (see note below) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhaz74692&theme=minimal&hide_border=true&area=true&hide_title=true&custom_title=" width="100%" alt="" />
+<img src="./assets/hero.svg" width="100%" alt="" />
 
 </td>
 </tr>
@@ -69,6 +68,10 @@ Four AI agents consolidating WhatsApp, email and Twilio voice leads into one rel
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=minhaz74692&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz74692&layout=compact&theme=default&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhaz74692&theme=minimal&hide_border=true&area=true" width="95%" alt="" />
 
 </div>
 
